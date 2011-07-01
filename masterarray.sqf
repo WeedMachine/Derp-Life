@@ -1,3 +1,5 @@
+//Change items.
+
 INV_AlleWaffenObjekte = [
 
 ["Binocular", ["Waffe", "Equipment"],["Binocular", "Binocular"], [1000, 500], [2, "", ""], [], "Binocular" call ISSE_Cfg_Weapons_GetName, "Binocular" call ISSE_Cfg_Weapons_GetDesc, [["plastik", 1],["glas", 1]]],
@@ -194,6 +196,8 @@ INV_AlleFahrzeugeArray = [
 
 ["Mi17_Ins",["Fahrzeug", "air"],["Mi17_Ins", "Mi-8MT"],[500000, 250000], [5, "air", "air_support_training", 1500], [1000, [1,2,0,13] ], "Mi-17", "Mi-17", [["stahl", 10],["ebauteile", 5],["geld",50000]]],
 
+["MH6J_EP1",["Fahrzeug", "air"],["MH6J_EP1", "MH6J Little Bird"],[150000, 100000], [5, "air", "air_support_training", 1500], [1000, [1,2,0,13] ], "Mi-17", "Mi-17", [["Steel ", 10],["iron", 20],["geld",15000]]],
+
 ["MV22",["Fahrzeug", "air"],["MV22", "MV22"],[650000, 325000], [5, "air", "air_support_training", 1500], [1000, [1,2,0,13] ], "MV22", "MV22", [["stahl", 15],["ebauteile", 5],["geld",80000]]],
 
 ["MMT_Civ",["Fahrzeug", "car"],["smurfcbike", "smurfcbike"],[500, 250],[1, "", "", 49], [150, [1,0,0,3]], "smurfcbike" call ISSE_Cfg_Vehicle_GetName, "smurfcbike" call ISSE_Cfg_Vehicle_GetDesc, [["stahl", 1]] ],
@@ -275,6 +279,7 @@ INV_AlleFahrzeugeArray = [
 ["GAZ_Vodnik_MedEvac", ["Fahrzeug", "armored"],["GAZ_Vodnik_MedEvac", "Vodnik Medical"],[300000, 150000],[2, "", "sobr_training", 1000], [750, [1,0,0,1] ], "GAZ_Vodnik_MedEvac","GAZ_Vodnik_MedEvac",[] ],
 
 ["MTVR", ["Fahrzeug", "truck"],["MTVR", "MTVR Truck"],[70000, 35000],[2, "truck", "patrol_training", 2500], [500, [1,0,0,14] ], "MTVR" call ISSE_Cfg_Vehicle_GetName,"MTVR" call ISSE_Cfg_Vehicle_GetDesc,[["stahl", 2],["ebauteile", 1]] ]
+
 
 ];
 
