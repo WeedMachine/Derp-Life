@@ -3,7 +3,7 @@ STRM_mission_name,Down Under 2.0,Down Under TwoPointZero
 STRS_hints_vehicle_information,VEHICLE INFORMATION:\n\nName: %4\nType: %1\ndirection: %2°\nHeight ASL: %3m\nDriver: %5\nFree Cargo: %6\nlength: %7m,
 STRS_functions_crimelog_msg12,Speeding,
 STRS_anfang_laden,Loading... \nPlease Wait.,
-STRS_anfang_02,A New mission created and customised for HGs-Server©,
+STRS_anfang_02,A New mission created and customised for Fury's People,
 STRS_anfang_03,"People who edit this map now Titan0815 ,TeeTime ,Wookimonsta and Vixus \n\n basic Scripts written by Iseetea, Fewo, Pogomon and Eddie Vedder.",
 STRS_anfang_04,This is a RPG (Role Playing Game) Map!\n\n No Deathmatching! Only kill with a good reason! \n\n Cops should avoid firing with lethal rounds! \n\n Civs have to holster weapons in towns.\n\n Read Server Rules. Lese die Serverreglen.,
 STRS_anfang_05_civ,As a Civillian you start at the hotel.,
