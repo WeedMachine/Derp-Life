@@ -1,7 +1,7 @@
 // Drugs Scripts
 // drugs.sqf
 
-_art = _this select 0;
+_art = _this select 0; // Test comment.
 
 if (_art == "init") then 
 
