@@ -1,0 +1,424 @@
+
+---------- 1007210.SQF
+
+---------- 1614524.HPP
+
+---------- 2085272.HPP
+
+---------- 34399681.HPP
+
+---------- 3442919.SQF
+
+---------- 3778285.HPP
+
+---------- 4422894.SQF
+
+---------- 4461230.HPP
+
+---------- 4782911.HPP
+
+---------- 740153.SQF
+
+---------- ACTIONS.SQF
+_role addaction ["Holster Pistol","noscript.sqf",'["animation", "holsterpistol"] execVM "holsterscript.sqf";',1,false,true,"",'(player hasweapon "m9" or player hasweapon "Colt1911" or player hasweapon "Makarov",) and !noholster'];
+_role addaction ["Holster Rifle","noscript.sqf",'["animation", "holsterrifle"] execVM "holsterscript.sqf";',1,false,true,"",'player hasweapon "Saiga12K" or player hasweapon "Huntingrifle" or player hasweapon "MP5A5"'];
+
+---------- ADDINVENTORY.SQF
+
+---------- ADDLICENSE.SQF
+
+---------- ADDSTORAGE.SQF
+
+---------- ALKEFFEKT.SQF
+
+---------- ANIMDLG.HPP
+
+---------- ANIMDLGOPEN.SQF
+
+---------- ANIMLIST.SQF
+
+---------- ANIMPLAY.SQF
+
+---------- ASSASSINATION.SQF
+
+---------- ATM.SQF
+
+---------- BAIL.SQF
+
+---------- BANK.HPP
+
+---------- BANKALARM.OGG
+
+---------- BANKEXEC.SQF
+
+---------- BANKROB.SQF
+
+---------- BANKVARIABLES.SQF
+
+---------- BLITZER.SQF
+
+---------- BOMBS.SQF
+
+---------- BRIEFING.SQF
+
+---------- BROADCAST.SQF
+
+---------- BUYSHOP.SQF
+
+---------- CARPARKS.SQF
+
+---------- CARSTORAGE.SQF
+
+---------- CHANGECLASS.SQF
+
+---------- CHANGELOGS.TXT
+
+---------- CHIEF.SQF
+
+---------- CHOOSECITY.SQF
+
+---------- CHOOSECITY2.SQF
+
+---------- CIVMENU.HPP
+
+---------- CIVMENU.SQF
+
+---------- CIVMENUINIT.SQF
+
+---------- CLEARTREES.SQF
+
+---------- COMMONLOOP.SQF
+
+---------- CONVOYSTORAGE.SQF
+
+---------- COPCAMS.SQF
+
+---------- COPCHOPRESPAWN.SQF
+
+---------- COPMARKERS.SQF
+
+---------- COPPRISON.SQF
+
+---------- CREATEFACITEM.SQF
+
+---------- CREATEFUNCTIONS.SQF
+
+---------- CREATEOBJECT.SQF
+
+---------- CREATESQUAD.SQF
+
+---------- CUSTOMFUNCTIONS.SQF
+
+---------- DEFUSER.SQF
+
+---------- DELIVERY.SQF
+
+---------- DESCRIPTION.EXT
+
+---------- DROP.SQF
+
+---------- DRUGREPLENISH.SQF
+
+---------- DRUGS.SQF
+
+---------- DRUGSEARCH.SQF
+
+---------- DRUGUSE.SQF
+
+---------- EFFECTS.SQF
+
+---------- EXECLOTTO.SQF
+
+---------- EXPORTITEM.SQF
+
+---------- EXPORTVEHICLE.SQF
+
+---------- EXPORTWEAPON.SQF
+
+---------- FACBUY.SQF
+
+---------- FACHARVEST.SQF
+
+---------- FACMANI.SQF
+
+---------- FACQUEUE.SQF
+
+---------- FACQUEUE2.SQF
+
+---------- FOOD.SQF
+
+---------- GANGFLAGS.SQF
+
+---------- GANGS.SQF
+
+---------- GATHERGEN.SQF
+
+---------- GFX.HPP
+
+---------- GFX.SQF
+
+---------- GIVE.SQF
+
+---------- GUNTEST.SQF
+if(!(player hasweapon "M9"))exitwith
+
+---------- HANDY.SQF
+
+---------- HEADBUG.SQF
+
+---------- HIDEOUT.SQF
+
+---------- HOLSTERSCRIPT.SQF
+
+---------- HOLSTERSCRIPTVEH.SQF
+vehicle addaction ["Holster Pistol","noscript.sqf",'["animation", "holsterpistol"] execVM "holsterscript.sqf";',1,false,true,"",'(player hasweapon "m9" or player hasweapon "Colt1911") and !noholster'];
+vehicle addaction ["Holster Rifle","noscript.sqf",'["animation", "holsterrifle"] execVM "holsterscript.sqf";',1,false,true,"",'player hasweapon "Saiga12K" or player hasweapon "Huntingrifle"'];
+
+---------- HOUSE.SQF
+
+---------- HOUSE2.SQF
+
+---------- HQBOMB.SQF
+
+---------- HUNTING.SQF
+
+---------- IGNITEFUEL.SQF
+
+---------- IMPOUND.SQF
+
+---------- INIT.SQF
+
+---------- INITFILENAMES.SQF
+
+---------- INITFUNCS.SQF
+
+---------- INITPLAYER.SQF
+
+---------- INITWPMISSIONS.SQF
+
+---------- INTERACT.SQF
+
+---------- INTEREST.SQF
+
+---------- INTROCAM.SQF
+
+---------- INVACTIONS.SQF
+
+---------- INVDIALOGS.HPP
+
+---------- INVENTORY.SQF
+
+---------- INVFUNCTIONS.SQF
+
+---------- INVISIBLEFENCE.SQF
+
+---------- INVVARS.SQF
+
+---------- ITEMACTIONS.SQF
+
+---------- ITEMBAG.SQF
+
+---------- ITEMPROCESS.SQF
+
+---------- KEYS.SQF
+
+---------- KILLER.SQF
+
+---------- LARGEREPAIR.SQF
+
+---------- LICENSEARRAY.SQF
+
+---------- LOCALP.SQF
+
+---------- LOCKPICK.SQF
+
+---------- LOTTO.SQF
+
+---------- LOTTOACTIONS.SQF
+
+---------- LOTTOARRAYS.SQF
+
+---------- LOTTODIALOG.SQF
+
+---------- MAINDIALOGS.HPP
+
+---------- MAINDIALOGS.SQF
+
+---------- MARKERS.SQF
+
+---------- MASTERARRAY.SQF
+
+---------- MAYOR.SQF
+
+---------- MEDKIT.SQF
+
+---------- MINE.SQF
+
+---------- MISCFUNCTIONS.SQF
+
+---------- MISSION.SQM
+
+---------- NAMETAGS.SQF
+
+---------- NITRO.SQF
+
+---------- NOMOVE.SQF
+
+---------- NOSCRIPT.SQF
+
+---------- NOUSE.SQF
+
+---------- OBJECTDESPAWN.SQF
+
+---------- ONKEYPRESS.SQF
+
+---------- PETROLACTIONS.SQF
+
+---------- PETROLREFUEL.SQF
+
+---------- PICKUP.SQF
+
+---------- PLAYERARRAYS.SQF
+
+---------- POWER.SQF
+
+---------- PULLOUT.SQF
+
+---------- RADIO.SQF
+
+---------- RADIOJAMMER.SQF
+
+---------- RECRUITAI.SQF
+
+---------- REFUELVEH.SQF
+
+---------- REJOINCAMERA.SQF
+
+---------- REPAIR.SQF
+
+---------- RESPAWN.SQF
+
+---------- RESPAWNCAMERA.SQF
+
+---------- RESTRAIN.SQF
+
+---------- ROBPOOL.SQF
+
+---------- ROBTHESTATIONS.SQF
+
+---------- RSCDEFINES.HPP
+
+---------- RSCTITLES.HPP
+
+---------- SALARIES.SQF
+
+---------- SATCAM.SQF
+
+---------- SAVEVARFUNCS.SQF
+
+---------- SEARCH.SQF
+
+---------- SETFREE.SQF
+
+---------- SETHIT.SQF
+
+---------- SETOBJECTPITCHES.SQF
+
+---------- SETPITCHBANK.SQF
+
+---------- SETTINGS.SQF
+
+---------- SHOPDIALOGS.SQF
+	if (player hasweapon (_infos call INV_getitemClassName)) then 
+
+---------- SHOPFARMFACLICENSEACTIONS.SQF
+
+---------- SHOPS.SQF
+
+---------- SHOPTRANSACTIONS.SQF
+
+---------- SIREN.SQF
+
+---------- SIREN_LONG.OGG
+
+---------- SIREN_SHORT.OGG
+
+---------- SIT.SQF
+
+---------- SKIPTIME.SQF
+
+---------- SKIPTIME2.SQF
+
+---------- SLAVES.SQF
+
+---------- SLAVES2.SQF
+
+---------- SOUNDS.HPP
+
+---------- SPEEDCAMS.SQF
+
+---------- STATIONROBLOOP.SQF
+
+---------- STORAGE.SQF
+
+---------- STRFUNCS.SQF
+
+---------- STRINGTABLE.CSV
+
+---------- STUN.SQF
+
+---------- SUICIDE.SQF
+
+---------- SUPGRADE.SQF
+
+---------- SWATCHANGE.SQF
+
+---------- SYPHON.SQF
+
+---------- TARGETS.SQF
+
+---------- TAXI.SQF
+
+---------- TEARGAS.SQF
+
+---------- TEST.SQF
+
+---------- TRANSACT.SQF
+
+---------- TRIGGERS.SQF
+
+---------- UNRESTRAIN.SQF
+
+---------- UPS.SQF
+
+---------- USERESOURCE.SQF
+
+---------- VARIABLES.SQF
+
+---------- VCLAMMO.SQF
+
+---------- VCLARRSAVE.SQF
+
+---------- VEHDESPAWN.SQF
+
+---------- VEHICLECHECK.SQF
+
+---------- VEHINFO.SQF
+
+---------- VICTIM.SQF
+
+---------- WANTEDRELEASE.SQF
+
+---------- WEAPONBAG.SQF
+
+---------- WEAPONCONVOY.SQF
+
+---------- WEATHER.SQF
+
+---------- WEEFILE.TXT
+
+---------- WORKER.SQF
+
+---------- WORKERKILLED.SQF
+
+---------- WORKPLACESETTINGS.SQF

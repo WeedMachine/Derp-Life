@@ -1,0 +1,76 @@
+2.594<br/>
+<br/>
+cops updates;<br/>
+license prices reduced alittle<br/>
+cops now get 1/4 the bounty for killing a wanted person<br/>
+drug search spaming fixes<br/>
+when giving a wanted now your name shows, should stop people making false wanted<br/>
+<br/>
+exporting to gun shop works with weapons and is good money<br/>
+<br/>
+Fix for wanted not showing up when killing a civ<br/>
+<br/>
+if you kill a cop you now lose your gun licenses<br/>
+<br/>
+trucks at truck shop no longer have ammo and nades<br/>
+<br/>
+gangs now give you 3k each in your salaries<br/>
+<br/>
+drugs prices increased 20-40%<br/>
+<br/>
+
+2.591<br/>
+<br/>
+bread now fills you up more<br/>
+<br/>
+you can now gather diamonds <br/>
+<br/>
+atm glitch fixed<br/>
+<br/>
+deep sea bass are now lighter, so its more profitable to fish for them<br/>
+<br/>
+you now only loose your gun licenses when you shoot someone<br/>
+<br/>
+
+2.59
+
+running people over now makes you wanted and removes your car and truck licenses
+
+shop buy/sell glitch fixed
+
+possible fix to the player number
+
+diamond and oil processing fixed, both licenses now cheaper
+
+2.57
+
+unprocessed drugs now show up as drugs when searched and add a bounty
+prices now are correct
+bounty is now 50% larger for all drugs
+suggested jail time is now 1min per 25k of drugs (was 20k)
+
+
+2.56
+this version does not have the resouces in manufacturing
+
+
+the buy/sell window now closes after use
+
+drugs and drug license's reworked;
+theres now individual licenses for each drug and area
+licenses are now just 10k
+drug sell and drug gathering points moved to places with more activity
+weight of drugs changed and weight of drugs changed
+prices changed
+
+
+several mining bugs fixed;
+jackhammer working,
+items are giving properly
+
+unlimited bicycles in car shops
+
+diamond ring prices make less so more inline with other jobs
+
+sell prices of iron steel copper oil increased
+oil added to sell resource
