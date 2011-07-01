@@ -1,3 +1,5 @@
+//Change items.
+
 INV_AlleWaffenObjekte = [
 
 ["Binocular", ["Waffe", "Equipment"],["Binocular", "Binocular"], [1000, 500], [2, "", ""], [], "Binocular" call ISSE_Cfg_Weapons_GetName, "Binocular" call ISSE_Cfg_Weapons_GetDesc, [["plastik", 1],["glas", 1]]],
