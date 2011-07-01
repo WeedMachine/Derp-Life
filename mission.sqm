@@ -2621,7 +2621,7 @@ class Mission
 				items=1;
 				class Item0
 				{
-					position[]={-336.3573,0.49973905,5121.5591};
+					position[]={-335.52896,0.31816828,5131.4941};
 					id=300;
 					side="LOGIC";
 					vehicle="Logic";
