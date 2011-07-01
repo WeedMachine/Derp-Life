@@ -764,11 +764,7 @@ class Mission
 				items=1;
 				class Item0
 				{
-<<<<<<< HEAD
 					position[]={-116.7581,0.60556269,8837.4756};
-=======
-					position[]={7401.1196,0.075571761,4803.8003};
->>>>>>> origin/master
 					azimut=-78.358704;
 					id=43;
 					side="LOGIC";
@@ -1217,11 +1213,7 @@ class Mission
 				items=1;
 				class Item0
 				{
-<<<<<<< HEAD
 					position[]={-134.0667,0.55889767,8827.583};
-=======
-					position[]={7383.811,-0.084615842,4793.9063};
->>>>>>> origin/master
 					azimut=-258.578;
 					id=130;
 					side="CIV";
@@ -6746,11 +6738,7 @@ class Mission
 		};
 		class Item93
 		{
-<<<<<<< HEAD
 			position[]={-136.96318,0.58230639,8828.3291};
-=======
-			position[]={7380.9146,-0.074456781,4794.6523};
->>>>>>> origin/master
 			azimut=-258.37399;
 			id=180;
 			side="EMPTY";
@@ -10259,11 +10247,7 @@ class Mission
 		};
 		class Item57
 		{
-<<<<<<< HEAD
 			position[]={-134.2542,0.55731219,8827.792};
-=======
-			position[]={7383.6235,-0.089663595,4794.1167};
->>>>>>> origin/master
 			name="boatshop_1";
 			text="@STRM_mission_marker_shop_boat";
 			type="Flag1";
