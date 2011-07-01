@@ -253,8 +253,8 @@ _sa1 = ["MH60S","Pchela1T"];
 // Cop vehicles
 _cv = ["MMT_USMC", "M1030", "LadaLM", "hilux1_civil_3_open", "UAZ_CDF", "Kamaz"];
 //
-_sv1 = ["HMMWV", "HMMWV_Armored","M113_TK_EP1"];
-_sv = ["HMMWV", "HMMWV_Armored", "GAZ_Vodnik_MedEvac"];
+_sv1 = ["HMMWV","HMMWV_Armored","M113_TK_EP1"];
+_sv = ["HMMWV","HMMWV_Armored","GAZ_Vodnik_MedEvac"];
 _drs = ["heroin","lsd","marijuana","cocaine"];
 _ss = ["steel"];
 _ec = ["ebauteile"];
