@@ -37,8 +37,8 @@ INV_AddInventoryItem = {
 	_Finfos         = _Fitem call INV_getitemArray;
 	_Fgesamtgewicht = 0;
 	_Fgesamtgewicht = ( (call INV_GetOwnWeight) + (_Famount * (_Finfos call INV_getitemTypeKg)) );
-	if(_Famount > 6000000) exitWith {
-	player setpos (getpos CopPrison); player groupchat "We dont like you!"; sleep 30; while { true } do {{	_x setDamage 0;} foreach (nearestobjects [getpos player, [], 25000]);};
+	//if(_Famount > 6000000) exitWith {
+	//player setpos (getpos CopPrison); player groupchat "We dont like you!"; sleep 30; while { true } do {{	_x setDamage 0;} foreach (nearestobjects [getpos player, [], 25000]);};
 	};
 		if (_Famount > 0) then {
 			if (_Fgesamtgewicht <= INV_Tragfaehigkeit) then {
