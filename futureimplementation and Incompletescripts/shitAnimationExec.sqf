@@ -1,0 +1,1 @@
+format ["[%1] execVM ""shitAnimation.sqf""", player] call ISSE_pub_execPstr;

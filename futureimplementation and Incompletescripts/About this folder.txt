@@ -1,0 +1,70 @@
+This folder contains scripts,
+
+The scripts contained within this folder were meant for a future release of Down Under,
+
+They are either unimplmented, or Unfinished.
+
+Most of these are Unimplmented and require testing.
+
+I hope you guys enjoy them, and update there section in this document so we know what is working and what is not.
+
+
+=========================AdvanceTime.sqf==========================
+22/06/2011 Jan Templar: Scripted with the hope of syncing fast time. - Untested.
+
+
+=========================Airline.sqf==========================
+22/06/2011 Jan Templar: Start your own airline. - Untested
+
+
+=========================Airtaxi.sqf==========================
+22/06/2011 Jan Templar: Civs pay an ai to fly them to a location, working, -Unimplemented
+
+
+=========================Airtaxicheck.sqf==========================
+22/06/2011 Jan Templar: Related to airtaxi
+
+
+=========================Bunnyhop.sqf==========================
+22/06/2011 Jan Templar: jump your vehicle, idea? to get players to jump vehicles over ravines etc,
+Exploitable able to fly..., recommened no use.
+
+
+=========================Bustdrugd.sqf==========================
+22/06/2011 Jan Templar: Bust the drug dealer, releated to drug dealer job.sqf - Untested
+
+
+=========================clearchat.sqf==========================
+22/06/2011 Jan Templar: An option of player to clear previous chat that may be halfway up there screen. - working - unimplemented
+
+
+=========================CopNeedsupport.sqf==========================
+22/06/2011 Jan Templar: Cop support button, fellow officers can hit this button and there location and urgent message is broadcasted to all police officers.- working - unimplmented
+
+
+=========================Dealer.sqf========================== 
+22/06/2011 Jan Templar: The driving drug dealer - unfinished
+
+
+=========================Drugdealerjob.sqf==========================
+22/06/2011 Jan Templar: A new illegal job for civs, where they sell drugs to civs, at dp points etc - Untested
+
+
+=========================Forensicinvestigations.sqf==========================
+22/06/2011 Jan Templar: Investigate dead bodies for clues - tested, result glitchy, -needs refinement.
+
+
+=========================Helilift.sqf==========================
+22/06/2011 Jan Templar: A different form of towing? Allows helicopters to lift vehicles - Working - unimplemented
+
+
+=========================Racestart.sqf==========================
+22/06/2011 Jan Templar: Racing script - unfinished
+
+
+=========================Shitanimation.sqf==========================
+22/06/2011 Jan Templar: An animation for shits and giggiles, recommend you guys put it in. -working
+
+
+=========================shitanimationexec.sqf==========================
+22/06/2011 Jan Templar: Related to shit animation.
