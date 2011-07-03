@@ -5760,7 +5760,7 @@ class Mission
 				items=1;
 				class Item0
 				{
-					position[]={-188.90752,0.75122321,9701.3262};
+					position[]={-214.77588,0.48355451,9702.249};
 					azimut=57.095306;
 					id=596;
 					side="CIV";
@@ -5780,17 +5780,11 @@ class Mission
 				items=1;
 				class Item0
 				{
-<<<<<<< HEAD
-					position[]={5990.7402,12.199162,7022.8984};
-					azimut=90;
-					id=602;
-=======
 					position[]={3122.8071,10.512516,5444.355};
 					azimut=-17.525269;
 					id=597;
->>>>>>> origin/master
 					side="CIV";
-					vehicle="RU_Profiteer1";
+					vehicle="RU_Profiteer4";
 					leader=1;
 					skill=0.60000002;
 					text="kaviarverkauf";
@@ -12129,7 +12123,7 @@ class Mission
 		};
 		class Item227
 		{
-			position[]={-187.25323,0.73530787,9702.2988};
+			position[]={-213.1216,0.49000207,9703.2217};
 			name="Kaviafabrikmarker";
 			text="Caviar Process";
 			type="mil_flag";
@@ -12139,11 +12133,7 @@ class Mission
 		};
 		class Item228
 		{
-<<<<<<< HEAD
-			position[]={5990.0098,12.199162,7023.1831};
-=======
 			position[]={3122.0767,10.512516,5444.6396};
->>>>>>> origin/master
 			name="Kaviarverkauf";
 			text="Sell Caviar";
 			type="mil_flag";
