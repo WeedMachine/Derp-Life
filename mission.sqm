@@ -2999,7 +2999,7 @@ class Mission
 				items=1;
 				class Item0
 				{
-					position[]={-2400.022,0.6939491,9125.4492};
+					position[]={-2589.667,0.62724495,7030.8311};
 					id=270;
 					side="LOGIC";
 					vehicle="Logic";
@@ -4786,8 +4786,8 @@ class Mission
 				items=1;
 				class Item0
 				{
-					position[]={4201.6841,28.745401,8259.3398};
-					azimut=-133.045;
+					position[]={3012.0217,153.0069,3794.3555};
+					azimut=-188.28876;
 					id=518;
 					side="GUER";
 					vehicle="RU_Woodlander4";
@@ -5246,8 +5246,8 @@ class Mission
 				items=1;
 				class Item0
 				{
-					position[]={4203.0908,28.990032,8258.123};
-					azimut=-133.045;
+					position[]={3013.8242,153.04691,3794.8169};
+					azimut=-188.28876;
 					id=554;
 					side="GUER";
 					vehicle="RU_Worker3";
@@ -5349,8 +5349,8 @@ class Mission
 				items=1;
 				class Item0
 				{
-					position[]={4204.353,29.20282,8257.0977};
-					azimut=-133.045;
+					position[]={3015.3867,153.08157,3795.2705};
+					azimut=-188.28876;
 					id=560;
 					side="GUER";
 					vehicle="ru_Citizen3";
@@ -5371,8 +5371,8 @@ class Mission
 				items=1;
 				class Item0
 				{
-					position[]={4205.6055,29.433126,8255.8906};
-					azimut=-133.045;
+					position[]={3017.0916,153.11942,3795.6094};
+					azimut=-188.28876;
 					id=561;
 					side="GUER";
 					vehicle="ru_Citizen4";
@@ -5393,8 +5393,8 @@ class Mission
 				items=1;
 				class Item0
 				{
-					position[]={4206.8979,29.667818,8254.6738};
-					azimut=-133.045;
+					position[]={3018.8284,153.15796,3795.9788};
+					azimut=-188.28876;
 					id=562;
 					side="GUER";
 					vehicle="ru_Citizen2";
@@ -5415,8 +5415,8 @@ class Mission
 				items=1;
 				class Item0
 				{
-					position[]={4208.0156,29.875446,8253.5762};
-					azimut=-133.045;
+					position[]={3020.3694,153.18396,3796.272};
+					azimut=-188.28876;
 					id=563;
 					side="GUER";
 					vehicle="ru_Citizen1";
@@ -5437,8 +5437,8 @@ class Mission
 				items=1;
 				class Item0
 				{
-					position[]={4208.957,30.055109,8252.6035};
-					azimut=-133.045;
+					position[]={3021.7034,153.18396,3796.4912};
+					azimut=-188.28876;
 					id=564;
 					side="GUER";
 					vehicle="RU_Profiteer2";
@@ -5459,8 +5459,8 @@ class Mission
 				items=1;
 				class Item0
 				{
-					position[]={4210.0435,30.257208,8251.5059};
-					azimut=-133.045;
+					position[]={3023.2256,153.18396,3796.7571};
+					azimut=-188.28876;
 					id=565;
 					side="GUER";
 					vehicle="RU_Functionary1";
@@ -5700,7 +5700,7 @@ class Mission
 				items=1;
 				class Item0
 				{
-					position[]={2944.8198,152.80618,3861.1704};
+					position[]={2943.0801,152.73882,3856.9548};
 					azimut=209.88318;
 					id=580;
 					side="CIV";
@@ -11041,9 +11041,9 @@ class Mission
 		};
 		class Item104
 		{
-			position[]={-2406.0327,0.73463428,9217.5};
+			position[]={3116.1523,1.7611225,5747.5566};
 			name="boatdocks";
-			text="Boat dock";
+			text="Boat Dock";
 			type="mil_dot";
 			colorName="ColorWhite";
 			a=0.69999999;
@@ -11383,19 +11383,18 @@ class Mission
 		};
 		class Item139
 		{
-			position[]={-3079.168,0.61920482,8346.1875};
+			position[]={6691.041,23.018467,6684.7979};
 			name="Court House";
 			text="Court House";
 			markerType="RECTANGLE";
 			type="Empty";
 			colorName="ColorGreen";
-			a=17;
-			b=11;
-			angle=-17;
+			a=18;
+			b=9;
 		};
 		class Item140
 		{
-			position[]={-3079.3696,0.62272972,8345.4395};
+			position[]={6690.0928,23.018467,6685.2437};
 			name="courthousename";
 			text="Court House";
 			type="FOB";
@@ -11427,7 +11426,7 @@ class Mission
 		};
 		class Item143
 		{
-			position[]={-2385.7324,0.45701009,9170.5098};
+			position[]={6956.3594,6.9616776,2326.8242};
 			name="Boat_Dock";
 			text="Boat Dock";
 			type="mil_dot";
@@ -11447,9 +11446,9 @@ class Mission
 		};
 		class Item145
 		{
-			position[]={-2333.0581,0.48224133,9116.2109};
+			position[]={4760.6367,0.58157229,2666.9634};
 			name="Dock_4";
-			text="Dock";
+			text="Boat Dock";
 			type="mil_dot";
 			colorName="ColorWhite";
 			a=0.69999999;
@@ -11985,7 +11984,7 @@ class Mission
 		{
 			position[]={3017.5754,152.60181,3735.6714};
 			name="policebase2";
-			text="Mogilevka Policestation";
+			text="Los Peligron Policestation";
 			type="City";
 			colorName="ColorBlack";
 			a=0.69999999;
@@ -12218,14 +12217,14 @@ class Mission
 		};
 		class Item223
 		{
-			position[]={2945.3232,160.73999,3862.0098};
+			position[]={2943.1711,152.74028,3856.958};
 			name="rathausmarkermogi";
-			text="Town Hall Mogilevka";
+			text="Los Peligron Town Hall";
 			type="mil_dot";
 			colorName="ColorWhite";
 			a=0.69999999;
 			b=0.69999999;
-			angle=199.88318;
+			angle=199.883;
 		};
 		class Item224
 		{
