@@ -5760,7 +5760,7 @@ class Mission
 				items=1;
 				class Item0
 				{
-					position[]={-214.77588,0.48355451,9702.249};
+					position[]={-188.90752,0.75122321,9701.3262};
 					azimut=57.095306;
 					id=596;
 					side="CIV";
@@ -12123,7 +12123,7 @@ class Mission
 		};
 		class Item227
 		{
-			position[]={-213.1216,0.49000207,9703.2217};
+			position[]={-187.25323,0.73530787,9702.2988};
 			name="Kaviafabrikmarker";
 			text="Caviar Process";
 			type="mil_flag";
