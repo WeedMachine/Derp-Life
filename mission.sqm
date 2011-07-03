@@ -5780,15 +5780,15 @@ class Mission
 				items=1;
 				class Item0
 				{
-					position[]={-194.16791,0.55249745,7917.5728};
+					position[]={5990.7402,12.199162,7022.8984};
 					azimut=90;
 					id=602;
 					side="CIV";
-					vehicle="RU_Profiteer4";
+					vehicle="RU_Profiteer1";
 					leader=1;
 					skill=0.60000002;
 					text="kaviarverkauf";
-					init=" call compile ""[""""light"""", this, 0.1] execvm """"effects.sqf"""";"";  this disableAI ""move"";  this disableAI ""anim""; this allowdamage false; this setPos ((nearestobject [this, ""house""]) buildingPos 7); ";
+					init=" call compile ""[""""light"""", this, 0.1] execvm """"effects.sqf"""";"";  this disableAI ""move"";  this disableAI ""anim""; this allowdamage false;";
 				};
 			};
 		};
@@ -12176,7 +12176,7 @@ class Mission
 		};
 		class Item228
 		{
-			position[]={-194.89838,0.54069948,7917.8574};
+			position[]={5990.0098,12.199162,7023.1831};
 			name="Kaviarverkauf";
 			text="Sell Caviar";
 			type="mil_flag";
