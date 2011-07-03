@@ -11991,24 +11991,25 @@ class Mission
 		};
 		class Item214
 		{
-			position[]={-834.25055,0.65883207,7838.8496};
+			position[]={6609.1265,13.881729,5078.5762};
 			name="apfelfeldmarker";
 			markerType="RECTANGLE";
 			type="Empty";
 			colorName="ColorWhite";
-			a=50;
-			b=50;
-			angle=-68.725601;
+			a=30;
+			b=30;
+			angle=179.886;
 		};
 		class Item215
 		{
-			position[]={-836.41754,0.64255208,7841.8081};
+			position[]={6608.6318,13.848069,5081.8208};
 			name="apfelfeld";
 			text="Applefield";
 			type="mil_circle";
 			colorName="ColorWhite";
 			a=0.69999999;
 			b=0.69999999;
+			angle=248.6113;
 		};
 		class Item216
 		{
