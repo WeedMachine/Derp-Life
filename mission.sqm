@@ -2012,11 +2012,11 @@ class Mission
 				items=1;
 				class Item0
 				{
-					position[]={6689.2017,24.516933,6155.062};
-					azimut=-91.561302;
+					position[]={6686.291,12.63677,6158.7158};
+					azimut=-358.84601;
 					id=145;
 					side="GUER";
-					vehicle="ru_Woodlander3";
+					vehicle="GUE_Soldier_1";
 					leader=1;
 					skill=0.60000002;
 					text="licenseflag2";
@@ -10833,14 +10833,14 @@ class Mission
 		};
 		class Item83
 		{
-			position[]={6696.855,24.500311,6144.1724};
+			position[]={6696.7808,24.490108,6145.291};
 			name="gtarea";
 			markerType="RECTANGLE";
 			type="Empty";
 			colorName="ColorBlue";
 			a=30;
 			b=25;
-			angle=4.1129012;
+			angle=0.45624423;
 		};
 		class Item84
 		{

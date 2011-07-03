@@ -186,9 +186,9 @@ _role addaction ["Private storage (saved)","storage.sqf",["private_storage", "sa
 //========================================= BAIL ======================================================	 
 _role addaction [format ["Pay Bail", slave_cost],"maindialogs.sqf", ["bail"],1,false,true,"","player distance bailflag <= 5 and isciv"];
 //====================================== GUN LICENSE ==================================================	 
-_role addaction ["Take practical test (Pistol probationary license required)","guntest.sqf",["test"],1,false,true,"","player distance Licenseflag2 <= 5 and isciv and !gtactive and !(""semiautomatic"" call INV_HasLicense)"];
-_role addaction ["Get rifle license (requires pistol license and 50000)","guntest.sqf",["rifle"],1,false,true,"","player distance Licenseflag2 <= 5 and isciv and !gtactive"];
-_role addaction ["Test info","guntest.sqf",["info"],1,false,true,"","player distance Licenseflag2 <= 5 and isciv"];
+//_role addaction ["Take practical test (Pistol probationary license required)","guntest.sqf",["test"],1,false,true,"","player distance Licenseflag2 <= 5 and isciv and !gtactive and !(""semiautomatic"" //call INV_HasLicense)"];
+//_role addaction ["Get rifle license (requires pistol license and 50000)","guntest.sqf",["rifle"],1,false,true,"","player distance Licenseflag2 <= 5 and isciv and !gtactive"];
+//_role addaction ["Test info","guntest.sqf",["info"],1,false,true,"","player distance Licenseflag2 <= 5 and isciv"];
 //===================================== ITEM PROCESS ==================================================	 
 _role addaction ["Process Diamond rock","itemprocess.sqf",["Diamond rock", "Diamondring", 12, "diamond"],1,false,true,"","player distance Diamond_1 <= 5"];
 _role addaction ["Process Wheat","itemprocess.sqf",["getreide", "Bread", 2, "Baker"],1,false,true,"","player distance Bakery_1 <= 5"];
