@@ -1357,8 +1357,8 @@ class Mission
 				items=1;
 				class Item0
 				{
-					position[]={5219.188,34.094151,6943.2324};
-					azimut=38.172501;
+					position[]={5218.5874,18.113522,6964.7524};
+					azimut=191.14418;
 					id=97;
 					side="CIV";
 					vehicle="ru_Functionary1";
@@ -1397,8 +1397,8 @@ class Mission
 				items=1;
 				class Item0
 				{
-					position[]={8443.082,0.80919158,7690.0449};
-					azimut=-1008.08;
+					position[]={8449.3047,0.80748641,7688.2544};
+					azimut=-938.48413;
 					id=99;
 					side="CIV";
 					vehicle="RU_Worker3";
@@ -1417,8 +1417,8 @@ class Mission
 				items=1;
 				class Item0
 				{
-					position[]={6994.0181,12.232449,6005.0244};
-					azimut=106.55427;
+					position[]={6992.4058,12.232449,5993.249};
+					azimut=276.12686;
 					id=100;
 					side="CIV";
 					vehicle="ru_Profiteer4";
@@ -1728,7 +1728,7 @@ class Mission
 				class Item0
 				{
 					position[]={6115.8433,3.998951,1646.1637};
-					azimut=-127.51183;
+					azimut=-90.752556;
 					id=118;
 					side="CIV";
 					vehicle="ru_Pilot";
@@ -1865,7 +1865,7 @@ class Mission
 				};
 				class Item2
 				{
-					position[]={8435.3809,0.74850559,7660.2705};
+					position[]={8441.9541,2.3375087,7647.7119};
 					class Effects
 					{
 					};
@@ -2959,7 +2959,7 @@ class Mission
 				items=1;
 				class Item0
 				{
-					position[]={3395.6707,15.431678,8215.7461};
+					position[]={3401.6299,15.426644,8213.3926};
 					azimut=-2.1521177;
 					id=268;
 					side="WEST";
@@ -3762,7 +3762,8 @@ class Mission
 				items=1;
 				class Item0
 				{
-					position[]={6626.2627,5.9962959,2628.4851};
+					position[]={6630.647,6.0120897,2614.3633};
+					azimut=-81.915306;
 					id=438;
 					side="CIV";
 					vehicle="ru_WorkWoman5";
@@ -3821,8 +3822,8 @@ class Mission
 				items=1;
 				class Item0
 				{
-					position[]={3050.4502,37.40329,5944.7153};
-					azimut=45.064602;
+					position[]={3033.6567,38.194481,5935.7969};
+					azimut=137.01588;
 					id=442;
 					side="CIV";
 					vehicle="ru_SchoolTeacher";
@@ -4560,8 +4561,8 @@ class Mission
 				items=1;
 				class Item0
 				{
-					position[]={7152.3745,0.60728228,5905.7705};
-					azimut=209.24612;
+					position[]={7148.9175,6.0987854,5899.4463};
+					azimut=-150.40645;
 					id=506;
 					side="CIV";
 					vehicle="RU_Assistant";
@@ -6701,7 +6702,7 @@ class Mission
 		};
 		class Item82
 		{
-			position[]={8490.9551,4.135128,7648.5967};
+			position[]={8480.2324,6.9486475,7640.418};
 			azimut=39.804298;
 			id=174;
 			side="EMPTY";
@@ -6748,7 +6749,7 @@ class Mission
 		};
 		class Item86
 		{
-			position[]={-2368.0825,0.47218934,9793.6348};
+			position[]={1902.3309,11.240606,7593.7964};
 			azimut=-731.67426;
 			id=184;
 			side="EMPTY";
@@ -6758,7 +6759,7 @@ class Mission
 		};
 		class Item87
 		{
-			position[]={-2365.7349,0.46330598,9785.3203};
+			position[]={1904.6786,11.112835,7585.4819};
 			azimut=-911.48602;
 			id=185;
 			side="EMPTY";
@@ -6769,7 +6770,7 @@ class Mission
 		};
 		class Item88
 		{
-			position[]={-2361.3604,0.55352175,9786.2598};
+			position[]={1909.0531,11.681576,7586.4214};
 			azimut=-912.13501;
 			id=186;
 			side="EMPTY";
@@ -6781,7 +6782,7 @@ class Mission
 		};
 		class Item89
 		{
-			position[]={-2357.4619,0.57737654,9795.4453};
+			position[]={1912.9515,12.281728,7595.6069};
 			azimut=-460.203;
 			id=188;
 			side="EMPTY";
@@ -6792,7 +6793,7 @@ class Mission
 		};
 		class Item90
 		{
-			position[]={-2357.3994,0.63047081,9787.1211};
+			position[]={1913.014,12.016548,7587.2827};
 			azimut=-912.13501;
 			id=189;
 			side="EMPTY";
@@ -8219,7 +8220,7 @@ class Mission
 		};
 		class Item235
 		{
-			position[]={3398.4294,15.357092,8210.5977};
+			position[]={3398.1523,15.404956,8213.0898};
 			azimut=6.8601341;
 			id=393;
 			side="EMPTY";
@@ -10273,7 +10274,7 @@ class Mission
 		};
 		class Item19
 		{
-			position[]={9135.2031,0.40884143,2331.3042};
+			position[]={175.83937,0.53179812,1642.144};
 			name="bases";
 			text="@STRM_mission_gruen_fahne";
 			type="City";
@@ -10281,7 +10282,7 @@ class Mission
 		};
 		class Item20
 		{
-			position[]={9144.8242,0.72210312,1565.6821};
+			position[]={185.46046,0.60623342,876.52197};
 			name="banks";
 			text="@STRM_mission_gruen_punkt";
 			type="mil_box";
@@ -10289,7 +10290,7 @@ class Mission
 		};
 		class Item21
 		{
-			position[]={9144.0117,0.4055472,2099.8018};
+			position[]={184.64796,0.63706541,1410.6416};
 			name="gelb";
 			text="@STRM_mission_gelb_fahne";
 			type="Flag1";
@@ -10297,7 +10298,7 @@ class Mission
 		};
 		class Item22
 		{
-			position[]={9131.7441,0.81126559,1194.573};
+			position[]={172.38039,0.55444705,505.41284};
 			name="rot_punkt";
 			text="@STRM_mission_rot_punkt";
 			type="mil_box";
@@ -10305,7 +10306,7 @@ class Mission
 		};
 		class Item23
 		{
-			position[]={9145.8203,0.7497704,1794.9626};
+			position[]={186.45656,0.61214817,1105.8025};
 			name="rot_flagge";
 			text="@STRM_mission_rot_fahne";
 			type="Flag1";
@@ -10324,7 +10325,7 @@ class Mission
 		};
 		class Item25
 		{
-			position[]={9131.5039,0.80485702,976.60803};
+			position[]={172.14015,0.54986113,287.44788};
 			name="andere_marker";
 			text="Other";
 			type="mil_box";
@@ -10332,7 +10333,7 @@ class Mission
 		};
 		class Item26
 		{
-			position[]={9145.7559,0.38498682,2619.8965};
+			position[]={186.39211,0.61354589,1930.7361};
 			name="caption";
 			text="@STRM_mission_legende";
 			type="Warning";
@@ -10340,7 +10341,7 @@ class Mission
 		};
 		class Item27
 		{
-			position[]={9143.1328,0.51930749,553.0592};
+			position[]={183.76906,0.63435048,-136.10095};
 			name="civmarker_legende";
 			text="@STRM_mission_legende_civmarker";
 			type="mil_dot";
@@ -10350,7 +10351,7 @@ class Mission
 		};
 		class Item28
 		{
-			position[]={9146.2656,0.59147441,350.32678};
+			position[]={186.90187,0.55763984,-338.83337};
 			name="543543";
 			text="@STRM_mission_legende_civmarker2";
 			type="mil_dot";
@@ -10360,7 +10361,7 @@ class Mission
 		};
 		class Item29
 		{
-			position[]={9143.9316,0.82868981,154.02844};
+			position[]={184.56789,0.57229882,-535.13171};
 			name="435";
 			text="@STRM_mission_legende_copmarker";
 			type="mil_dot";
@@ -10370,7 +10371,7 @@ class Mission
 		};
 		class Item30
 		{
-			position[]={9137.9922,0.71691895,771.70203};
+			position[]={178.62843,0.60829872,82.54187};
 			name="4325345";
 			text="Petrol Station";
 			type="mil_box";
@@ -10430,7 +10431,7 @@ class Mission
 		};
 		class Item36
 		{
-			position[]={9147.4023,0.72297889,1959.2479};
+			position[]={188.03859,0.40828407,1270.0878};
 			name="blau_1";
 			text="@STRM_mission_blau_fahne";
 			type="Flag1";
@@ -10557,7 +10558,7 @@ class Mission
 		};
 		class Item54
 		{
-			position[]={6992.5225,12.232449,6008.6592};
+			position[]={6992.4194,12.232449,5993.2129};
 			name="Bakery";
 			text="Bakery";
 			type="Flag1";
@@ -10577,13 +10578,14 @@ class Mission
 		};
 		class Item56
 		{
-			position[]={5219.6411,34.14732,6944.0352};
+			position[]={5218.8569,18.113522,6964.6143};
 			name="oilFactory_1";
 			text="Oil processing/mining tools";
 			type="mil_flag";
 			colorName="ColorBlue";
 			a=0.69999999;
 			b=0.69999999;
+			angle=0.7083919;
 		};
 		class Item57
 		{
@@ -10716,7 +10718,7 @@ class Mission
 		};
 		class Item71
 		{
-			position[]={9140.9434,0.52686173,1387.9792};
+			position[]={181.57961,0.75709915,698.81909};
 			name="rot_punkt_1";
 			text="Shop";
 			type="mil_box";
@@ -11373,7 +11375,7 @@ class Mission
 		};
 		class Item138
 		{
-			position[]={8439.7539,0.75004637,7693.2695};
+			position[]={8449.5615,0.8070159,7688.0474};
 			name="tbshop";
 			text="Boat shop";
 			type="mil_flag";
@@ -11634,7 +11636,7 @@ class Mission
 		};
 		class Item163
 		{
-			position[]={6627.8008,5.9962959,2629.8162};
+			position[]={6630.7104,6.0136395,2614.3201};
 			name="pub_1";
 			text="Pub";
 			type="mil_flag";
@@ -11777,7 +11779,7 @@ class Mission
 		};
 		class Item177
 		{
-			position[]={3049.5361,37.231499,5947.0059};
+			position[]={3033.8958,38.193974,5935.7749};
 			name="Diamond_Processing";
 			text="Diamond Processing";
 			type="mil_flag";
@@ -11892,7 +11894,7 @@ class Mission
 		};
 		class Item190
 		{
-			position[]={7152.3647,0.60690004,5905.877};
+			position[]={7148.9878,6.0987854,5899.5293};
 			name="boatshop_3";
 			text="@STRM_mission_marker_shop_boat";
 			type="mil_flag";
@@ -12088,8 +12090,8 @@ class Mission
 			markerType="ELLIPSE";
 			type="Empty";
 			colorName="ColorWhite";
-			a=12;
-			b=12;
+			a=20;
+			b=20;
 		};
 		class Item210
 		{
