@@ -249,7 +249,7 @@ _dsm = ["marijuana"];
 _dsl = ["lsd"];
 _dsh = ["heroin"];
 // Cop air shop
-_ca1 = ["MH6J_EP1","Mi17_medevac_Ins"];
+_ca1 = ["MH6J_EP1","Mi17_medevac_Ins","seil"];
 // SOBR air shop
 _sa1 = ["MH60S","Pchela1T"];
 // Cop vehicles

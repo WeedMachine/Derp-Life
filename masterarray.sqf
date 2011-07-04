@@ -447,6 +447,9 @@ INV_AlleItemsArray = [
 
 ["vclammo",["Item", "carobjects"],["vclammo", "Vehicle Ammo"],[50000, 25000], [50, "", "sobr_training"], [true, true, true,!(iscop),"vclammo.sqf"],localize "STRS_inv_item_vclammo",localize "STRS_inv_item_vclammo_info", [["kupfer", 5],["schwarzpulver", 5]] ],
 
+//Rope for heliLift.sqf. Lifting works, releasing does not.
+//["seil",["Item", "carobjects"],["seil", "Rope"],[5000, 2500], [10, "air", "air_support_training"], [true, true, true,false,"heliLift.sqf"],localize "STRS_inv_item_seil",localize //"STRS_inv_item_seil_info", [["stahl", 20]]],
+
 ["hideout",["Item", "misc"],["hideout", "Hideout"],[20000, 10000], [15, ""], [false, true, false,false,"hideout.sqf"],localize "STRS_item_hideout",localize "STRS_item_hideout_info", [] ],
 
 ["stoersender",["Item", ",misc"],["stoersender", "Radio jammer"],[15000, 7500],[5, ""], [true, true, true,true,"radiojammer.sqf"],localize "STRS_item_stoersender",localize "STRS_item_stoersender_info", [["plastik", 4],["ebauteile", 4]] ],
