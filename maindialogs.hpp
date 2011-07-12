@@ -1334,7 +1334,7 @@ class CopMenu
 		h = 0.04;
 		
 		text = "Civcam Menu";
-		action = "closedialog 0; [0,1,2,[""civcam""]] execVM ""maindialogs.sqf"";";	
+		action = "closedialog 0; player groupchat ""This feature is disabled!"";"; //"closedialog 0; [0,1,2,[""civcam""]] execVM ""maindialogs.sqf"";";	
 	};
 	
 	class button3 : RscButton
